@@ -1,6 +1,6 @@
 /**************************************
  * Program Name:      Month.java
- * @Author:      	    Cameron Murrill
+ * @Author:           Cameron
  * Class:             CSC205
  * Date:              26 August 2019
  * Brief Description: Class that creates Month objects using three different constructors
